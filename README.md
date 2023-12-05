@@ -1,1 +1,1 @@
-# FinalProject_ToyStoreInventoryManagementSystem
+# Toy Store Inventory Management System - Final Project | December 2023
