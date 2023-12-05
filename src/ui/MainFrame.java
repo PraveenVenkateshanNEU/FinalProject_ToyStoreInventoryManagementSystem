@@ -198,5 +198,4 @@ public class MainFrame extends javax.swing.JFrame {
     private ViewInventoryPanel viewInventoryPanel;
     private ItemPanel itemPanel;
     
-    
 }
